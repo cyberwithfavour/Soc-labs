@@ -14,7 +14,7 @@ SOC-002
 
 **Category:** Endpoint Activity
 
-**Date:** (Today's Date)
+**Date:** (July 14th, 2026)
 
 ---
 
