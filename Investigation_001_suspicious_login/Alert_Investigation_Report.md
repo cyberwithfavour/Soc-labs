@@ -14,7 +14,7 @@ SOC-001
 
 **Category:** Authentication
 
-**Date:** (Today's Date)
+**Date:** (July 13th, 2026)
 
 ---
 
