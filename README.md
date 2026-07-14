@@ -110,7 +110,7 @@ This repository is part of my **90-Day Cybersecurity Journey**, where I am build
 
 # 👩🏽‍💻 About Me
 
-I'm **Nmesoma Favour**, an aspiring Cybersecurity Analyst with a growing interest in Security Operations, Cloud Security, and Digital Forensics.
+I'm **Okanu Favour**, an aspiring Cybersecurity Analyst with a growing interest in Security Operations, Cloud Security, and Digital Forensics.
 
 I created this repository to document my practical investigations, improve my analytical skills, and showcase my growth through consistent hands-on practice.
 
