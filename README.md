@@ -39,7 +39,7 @@ The goal of this repository is to demonstrate practical security analysis, incid
 | Investigation | Topic | Status |
 |--------------|-------|--------|
 | Investigation 001 | Suspicious Login Investigation | ✅ Completed |
-| Investigation 002 | Coming Soon | ⏳ Planned |
+| Investigation 002 | Coming Soon |  ✅ Completed |
 | Investigation 003 | Coming Soon | ⏳ Planned |
 
 ---
