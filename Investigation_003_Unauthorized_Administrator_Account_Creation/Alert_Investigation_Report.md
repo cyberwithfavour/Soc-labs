@@ -14,7 +14,7 @@ SOC-003
 
 **Category:** Privilege Escalation / Account Management
 
-**Date:** (Today's Date)
+**Date:** (July 15th, 2026)
 
 ---
 
