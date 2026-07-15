@@ -40,8 +40,8 @@ The goal of this repository is to demonstrate practical security analysis, incid
 |--------------|-------|--------|
 | Investigation 001 | Suspicious Login Investigation | ✅ Completed |
 | Investigation 002 | Suspicious Powershell Execution |  ✅ Completed |
-| Investigation 003 | Coming Soon | ⏳ Planned |
-
+| Investigation 003 | Unauthorized Administrator Account Creation  |  ✅ Completed |
+| Investigation 004 |Coming soon |  pending |
 ---
 
 # 📁 Repository Structure
