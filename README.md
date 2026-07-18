@@ -43,6 +43,7 @@ The goal of this repository is to demonstrate practical security analysis, incid
 | Investigation 003 | Unauthorized Administrator Account Creation  |  ✅ Completed |
 | Investigation 004 | Suspicious DNS Traffic | ✅ Completed |
 | Investigation 005 | Potential Port Scan | ✅ Completed |
+| Investigation 006 | Blocked Firewall Alert | ✅ Completed 
 ---
 
 # 📁 Repository Structure
@@ -66,6 +67,8 @@ SOC-Labs
 └── Investigation_004
 │
 └── Investigation_005
+│
+└── Investigation_006
 ```
 
 ---
