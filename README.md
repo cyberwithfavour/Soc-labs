@@ -42,6 +42,7 @@ The goal of this repository is to demonstrate practical security analysis, incid
 | Investigation 002 | Suspicious Powershell Execution |  ✅ Completed |
 | Investigation 003 | Unauthorized Administrator Account Creation  |  ✅ Completed |
 | Investigation 004 | Suspicious DNS Traffic | ✅ Completed |
+| Investigation 005 | Potential Port Scan | ✅ Completed |
 ---
 
 # 📁 Repository Structure
@@ -63,6 +64,8 @@ SOC-Labs
 └── Investigation_003
 │
 └── Investigation_004
+│
+└── Investigation_005
 ```
 
 ---
