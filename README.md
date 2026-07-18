@@ -124,7 +124,7 @@ I created this repository to document my practical investigations, improve my an
 ## 📬 Connect With Me
 
 - **GitHub:** https://github.com/cyberwithfavour
-- **LinkedIn:** (https://www.linkedin.com/in/favourokanu/)
+- **LinkedIn:** https://www.linkedin.com/in/favourokanu/
 - **X (Twitter):** *(Add your X profile)*
 
 ---
