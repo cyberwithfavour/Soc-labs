@@ -1,0 +1,25 @@
+# Lessons Learned
+
+## Investigation ID
+
+007
+
+---
+
+## What I Learned
+
+This investigation taught me that successful VPN logins are not always legitimate. Even when authentication succeeds, SOC analysts must examine where the login originated, when it occurred, and whether the activity matches the user's normal behavior.
+
+I also learned how **Impossible Travel** alerts help identify potential account compromise by detecting logins from geographically distant locations within an unrealistic timeframe.
+
+---
+
+## Key Takeaway
+
+VPN authentication logs are valuable sources of evidence during incident investigations. By combining login times, source IP addresses, geolocation data, and user history, analysts can determine whether an account may have been compromised.
+
+---
+
+## Personal Reflection
+
+Before this investigation, I thought VPN alerts were mostly about failed login attempts. Now I understand that successful logins can also indicate suspicious activity. This lab strengthened my ability to analyze authentication events and think critically before making conclusions.
